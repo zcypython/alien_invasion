@@ -8,3 +8,5 @@ YOu can change some settings in settings.py
 I like change bullet width and high to 100000.That's good!!
 
 Thank all that you see my program
+
+and do not forget to run alien_invasion.py to run the game
